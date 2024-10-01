@@ -2,8 +2,8 @@
  * 
  */
 /**
- * @author deepa
+ * @author deepak
  *
  */
-module Tutorial {
+module Java_Codes {
 }
